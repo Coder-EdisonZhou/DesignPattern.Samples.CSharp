@@ -57,4 +57,8 @@
 
 　　⑩ 设计模式的征途-23.解释器（Interpreter）模式
 
-Find more details : https://www.cnblogs.com/edisonchou/p/7512912.html
+### 参考博文
+
+URL：<https://www.cnblogs.com/edisonchou/p/7512912.html>
+
+> @EdisonChou
