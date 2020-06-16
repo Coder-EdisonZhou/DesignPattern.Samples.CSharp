@@ -1,0 +1,5 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Prototype\bin\Debug\EDC.DesignPattern.Prototype.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Prototype\bin\Debug\EDC.DesignPattern.Prototype.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Prototype\bin\Debug\EDC.DesignPattern.Prototype.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Prototype\obj\Debug\EDC.DesignPattern.Prototype.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Prototype\obj\Debug\EDC.DesignPattern.Prototype.pdb

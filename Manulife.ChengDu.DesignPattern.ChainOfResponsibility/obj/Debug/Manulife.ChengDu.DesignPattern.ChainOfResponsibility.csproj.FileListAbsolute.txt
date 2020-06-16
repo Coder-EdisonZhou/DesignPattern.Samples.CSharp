@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.ChainOfResponsibility\bin\Debug\Manulife.ChengDu.DesignPattern.ChainOfResponsibility.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.ChainOfResponsibility\bin\Debug\Manulife.ChengDu.DesignPattern.ChainOfResponsibility.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.ChainOfResponsibility\bin\Debug\Manulife.ChengDu.DesignPattern.ChainOfResponsibility.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.ChainOfResponsibility\obj\Debug\Manulife.ChengDu.DesignPattern.ChainOfResponsibility.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.ChainOfResponsibility\obj\Debug\Manulife.ChengDu.DesignPattern.ChainOfResponsibility.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.ChainOfResponsibility\obj\Debug\Manulife.ChengDu.DesignPattern.ChainOfResponsibility.csprojResolveAssemblyReference.cache

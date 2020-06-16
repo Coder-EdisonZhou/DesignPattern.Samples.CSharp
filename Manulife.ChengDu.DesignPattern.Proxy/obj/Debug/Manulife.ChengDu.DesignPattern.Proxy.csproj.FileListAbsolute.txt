@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Proxy\bin\Debug\Manulife.ChengDu.DesignPattern.Proxy.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Proxy\bin\Debug\Manulife.ChengDu.DesignPattern.Proxy.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Proxy\bin\Debug\Manulife.ChengDu.DesignPattern.Proxy.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Proxy\obj\Debug\Manulife.ChengDu.DesignPattern.Proxy.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Proxy\obj\Debug\Manulife.ChengDu.DesignPattern.Proxy.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Proxy\obj\Debug\Manulife.ChengDu.DesignPattern.Proxy.pdb

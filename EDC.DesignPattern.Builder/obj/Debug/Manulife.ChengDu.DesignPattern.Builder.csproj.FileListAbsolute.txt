@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Builder\bin\Debug\EDC.DesignPattern.Builder.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Builder\bin\Debug\EDC.DesignPattern.Builder.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Builder\bin\Debug\EDC.DesignPattern.Builder.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Builder\obj\Debug\EDC.DesignPattern.Builder.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Builder\obj\Debug\EDC.DesignPattern.Builder.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Builder\obj\Debug\EDC.DesignPattern.Builder.pdb

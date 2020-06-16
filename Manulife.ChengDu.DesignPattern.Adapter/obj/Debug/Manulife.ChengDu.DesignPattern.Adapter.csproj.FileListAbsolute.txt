@@ -1,5 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Adapter\bin\Debug\Manulife.ChengDu.DesignPattern.Adapter.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Adapter\bin\Debug\Manulife.ChengDu.DesignPattern.Adapter.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Adapter\bin\Debug\Manulife.ChengDu.DesignPattern.Adapter.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Adapter\obj\Debug\Manulife.ChengDu.DesignPattern.Adapter.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Adapter\obj\Debug\Manulife.ChengDu.DesignPattern.Adapter.pdb

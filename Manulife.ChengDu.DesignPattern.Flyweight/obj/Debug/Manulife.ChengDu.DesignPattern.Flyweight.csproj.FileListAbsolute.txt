@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Flyweight\bin\Debug\Manulife.ChengDu.DesignPattern.Flyweight.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Flyweight\bin\Debug\Manulife.ChengDu.DesignPattern.Flyweight.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Flyweight\bin\Debug\Manulife.ChengDu.DesignPattern.Flyweight.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Flyweight\obj\Debug\Manulife.ChengDu.DesignPattern.Flyweight.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Flyweight\obj\Debug\Manulife.ChengDu.DesignPattern.Flyweight.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Flyweight\obj\Debug\Manulife.ChengDu.DesignPattern.Flyweight.pdb

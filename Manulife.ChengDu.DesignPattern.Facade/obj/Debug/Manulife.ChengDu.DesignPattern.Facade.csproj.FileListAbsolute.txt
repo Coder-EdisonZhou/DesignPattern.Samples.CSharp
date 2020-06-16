@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Facade\bin\Debug\Manulife.ChengDu.DesignPattern.Facade.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Facade\bin\Debug\Manulife.ChengDu.DesignPattern.Facade.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Facade\bin\Debug\Manulife.ChengDu.DesignPattern.Facade.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Facade\obj\Debug\Manulife.ChengDu.DesignPattern.Facade.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Facade\obj\Debug\Manulife.ChengDu.DesignPattern.Facade.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Facade\obj\Debug\Manulife.ChengDu.DesignPattern.Facade.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Strategy\bin\Debug\EDC.DesignPattern.Strategy.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Strategy\bin\Debug\EDC.DesignPattern.Strategy.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Strategy\bin\Debug\EDC.DesignPattern.Strategy.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Strategy\obj\Debug\EDC.DesignPattern.Strategy.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Strategy\obj\Debug\EDC.DesignPattern.Strategy.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Strategy\obj\Debug\EDC.DesignPattern.Strategy.pdb

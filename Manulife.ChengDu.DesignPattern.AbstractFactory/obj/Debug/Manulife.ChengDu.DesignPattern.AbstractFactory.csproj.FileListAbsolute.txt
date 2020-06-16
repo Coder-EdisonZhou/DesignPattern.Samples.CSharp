@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.AbstractFactory\bin\Debug\Manulife.ChengDu.DesignPattern.AbstractFactory.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.AbstractFactory\bin\Debug\Manulife.ChengDu.DesignPattern.AbstractFactory.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.AbstractFactory\bin\Debug\Manulife.ChengDu.DesignPattern.AbstractFactory.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.AbstractFactory\obj\Debug\Manulife.ChengDu.DesignPattern.AbstractFactory.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.AbstractFactory\obj\Debug\Manulife.ChengDu.DesignPattern.AbstractFactory.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.AbstractFactory\obj\Debug\Manulife.ChengDu.DesignPattern.AbstractFactory.pdb

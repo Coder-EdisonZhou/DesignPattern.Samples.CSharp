@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Memento\bin\Debug\Manulife.ChengDu.DesignPattern.Memento.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Memento\obj\Debug\Manulife.ChengDu.DesignPattern.Memento.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Memento\bin\Debug\Manulife.ChengDu.DesignPattern.Memento.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Memento\bin\Debug\Manulife.ChengDu.DesignPattern.Memento.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Memento\obj\Debug\Manulife.ChengDu.DesignPattern.Memento.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Memento\obj\Debug\Manulife.ChengDu.DesignPattern.Memento.pdb

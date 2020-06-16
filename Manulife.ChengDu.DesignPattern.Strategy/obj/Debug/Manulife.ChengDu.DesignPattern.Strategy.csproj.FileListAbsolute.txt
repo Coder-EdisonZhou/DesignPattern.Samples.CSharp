@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Strategy\bin\Debug\Manulife.ChengDu.DesignPattern.Strategy.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Strategy\bin\Debug\Manulife.ChengDu.DesignPattern.Strategy.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Strategy\bin\Debug\Manulife.ChengDu.DesignPattern.Strategy.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Strategy\obj\Debug\Manulife.ChengDu.DesignPattern.Strategy.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Strategy\obj\Debug\Manulife.ChengDu.DesignPattern.Strategy.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Strategy\obj\Debug\Manulife.ChengDu.DesignPattern.Strategy.pdb

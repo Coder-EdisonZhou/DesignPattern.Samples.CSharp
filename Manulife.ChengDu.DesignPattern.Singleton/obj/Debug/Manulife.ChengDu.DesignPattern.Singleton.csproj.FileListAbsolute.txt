@@ -1,5 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Singleton\bin\Debug\Manulife.ChengDu.DesignPattern.Singleton.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Singleton\bin\Debug\Manulife.ChengDu.DesignPattern.Singleton.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Singleton\bin\Debug\Manulife.ChengDu.DesignPattern.Singleton.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Singleton\obj\Debug\Manulife.ChengDu.DesignPattern.Singleton.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Singleton\obj\Debug\Manulife.ChengDu.DesignPattern.Singleton.pdb

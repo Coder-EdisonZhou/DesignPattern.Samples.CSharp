@@ -1,5 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Bridge\bin\Debug\Manulife.ChengDu.DesignPattern.Bridge.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Bridge\bin\Debug\Manulife.ChengDu.DesignPattern.Bridge.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Bridge\bin\Debug\Manulife.ChengDu.DesignPattern.Bridge.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Bridge\obj\Debug\Manulife.ChengDu.DesignPattern.Bridge.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Bridge\obj\Debug\Manulife.ChengDu.DesignPattern.Bridge.pdb

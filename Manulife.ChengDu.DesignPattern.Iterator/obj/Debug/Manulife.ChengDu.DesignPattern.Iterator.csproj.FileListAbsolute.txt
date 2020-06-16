@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Iterator\bin\Debug\Manulife.ChengDu.DesignPattern.Iterator.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Iterator\bin\Debug\Manulife.ChengDu.DesignPattern.Iterator.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Iterator\bin\Debug\Manulife.ChengDu.DesignPattern.Iterator.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Iterator\obj\Debug\Manulife.ChengDu.DesignPattern.Iterator.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Iterator\obj\Debug\Manulife.ChengDu.DesignPattern.Iterator.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Iterator\obj\Debug\Manulife.ChengDu.DesignPattern.Iterator.pdb

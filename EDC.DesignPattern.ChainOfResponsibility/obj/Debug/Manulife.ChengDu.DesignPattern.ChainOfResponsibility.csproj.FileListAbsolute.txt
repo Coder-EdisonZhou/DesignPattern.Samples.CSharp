@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.ChainOfResponsibility\bin\Debug\EDC.DesignPattern.ChainOfResponsibility.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.ChainOfResponsibility\bin\Debug\EDC.DesignPattern.ChainOfResponsibility.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.ChainOfResponsibility\bin\Debug\EDC.DesignPattern.ChainOfResponsibility.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.ChainOfResponsibility\obj\Debug\EDC.DesignPattern.ChainOfResponsibility.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.ChainOfResponsibility\obj\Debug\EDC.DesignPattern.ChainOfResponsibility.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.ChainOfResponsibility\obj\Debug\EDC.DesignPattern.ChainOfResponsibility.csprojResolveAssemblyReference.cache

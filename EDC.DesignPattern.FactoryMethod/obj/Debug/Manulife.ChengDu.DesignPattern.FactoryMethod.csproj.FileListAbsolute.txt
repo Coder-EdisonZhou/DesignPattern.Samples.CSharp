@@ -1,0 +1,2 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.FactoryMethod\obj\Debug\EDC.DesignPattern.FactoryMethod.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.FactoryMethod\bin\Debug\EDC.DesignPattern.FactoryMethod.exe.config

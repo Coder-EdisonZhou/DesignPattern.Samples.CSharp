@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.AbstractFactory\bin\Debug\EDC.DesignPattern.AbstractFactory.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.AbstractFactory\bin\Debug\EDC.DesignPattern.AbstractFactory.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.AbstractFactory\bin\Debug\EDC.DesignPattern.AbstractFactory.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.pdb

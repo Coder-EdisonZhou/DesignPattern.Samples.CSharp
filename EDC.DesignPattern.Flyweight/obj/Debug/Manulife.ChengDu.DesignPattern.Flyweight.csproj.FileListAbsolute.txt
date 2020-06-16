@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Flyweight\bin\Debug\EDC.DesignPattern.Flyweight.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Flyweight\bin\Debug\EDC.DesignPattern.Flyweight.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Flyweight\bin\Debug\EDC.DesignPattern.Flyweight.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Flyweight\obj\Debug\EDC.DesignPattern.Flyweight.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Flyweight\obj\Debug\EDC.DesignPattern.Flyweight.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Flyweight\obj\Debug\EDC.DesignPattern.Flyweight.pdb

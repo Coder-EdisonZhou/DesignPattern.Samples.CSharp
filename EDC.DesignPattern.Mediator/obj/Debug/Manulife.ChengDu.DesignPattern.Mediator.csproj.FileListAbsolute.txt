@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Mediator\bin\Debug\EDC.DesignPattern.Mediator.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Mediator\bin\Debug\EDC.DesignPattern.Mediator.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Mediator\bin\Debug\EDC.DesignPattern.Mediator.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Mediator\obj\Debug\EDC.DesignPattern.Mediator.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Mediator\obj\Debug\EDC.DesignPattern.Mediator.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Mediator\obj\Debug\EDC.DesignPattern.Mediator.csprojResolveAssemblyReference.cache

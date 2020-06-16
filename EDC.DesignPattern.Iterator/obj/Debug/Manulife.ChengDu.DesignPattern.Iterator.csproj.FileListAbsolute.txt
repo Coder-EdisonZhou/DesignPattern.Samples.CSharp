@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Iterator\bin\Debug\EDC.DesignPattern.Iterator.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Iterator\bin\Debug\EDC.DesignPattern.Iterator.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Iterator\bin\Debug\EDC.DesignPattern.Iterator.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Iterator\obj\Debug\EDC.DesignPattern.Iterator.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Iterator\obj\Debug\EDC.DesignPattern.Iterator.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Iterator\obj\Debug\EDC.DesignPattern.Iterator.pdb

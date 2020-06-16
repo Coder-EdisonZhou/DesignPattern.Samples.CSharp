@@ -1,5 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPatterm.Decorator\bin\Debug\Manulife.ChengDu.DesignPatterm.Decorator.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPatterm.Decorator\bin\Debug\Manulife.ChengDu.DesignPatterm.Decorator.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPatterm.Decorator\bin\Debug\Manulife.ChengDu.DesignPatterm.Decorator.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPatterm.Decorator\obj\Debug\Manulife.ChengDu.DesignPatterm.Decorator.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPatterm.Decorator\obj\Debug\Manulife.ChengDu.DesignPatterm.Decorator.pdb

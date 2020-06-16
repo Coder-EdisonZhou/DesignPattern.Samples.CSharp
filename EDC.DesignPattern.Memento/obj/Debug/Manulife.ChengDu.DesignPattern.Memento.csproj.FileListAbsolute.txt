@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Memento\bin\Debug\EDC.DesignPattern.Memento.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Memento\obj\Debug\EDC.DesignPattern.Memento.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Memento\bin\Debug\EDC.DesignPattern.Memento.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Memento\bin\Debug\EDC.DesignPattern.Memento.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Memento\obj\Debug\EDC.DesignPattern.Memento.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Memento\obj\Debug\EDC.DesignPattern.Memento.pdb

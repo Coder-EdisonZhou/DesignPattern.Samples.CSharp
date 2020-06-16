@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Visitor\bin\Debug\EDC.DesignPattern.Visitor.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Visitor\obj\Debug\EDC.DesignPattern.Visitor.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Visitor\bin\Debug\EDC.DesignPattern.Visitor.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Visitor\bin\Debug\EDC.DesignPattern.Visitor.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Visitor\obj\Debug\EDC.DesignPattern.Visitor.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Visitor\obj\Debug\EDC.DesignPattern.Visitor.pdb

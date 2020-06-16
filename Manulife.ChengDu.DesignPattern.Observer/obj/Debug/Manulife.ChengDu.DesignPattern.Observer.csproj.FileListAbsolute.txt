@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Observer\bin\Debug\Manulife.ChengDu.DesignPattern.Observer.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Observer\bin\Debug\Manulife.ChengDu.DesignPattern.Observer.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Observer\bin\Debug\Manulife.ChengDu.DesignPattern.Observer.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Observer\obj\Debug\Manulife.ChengDu.DesignPattern.Observer.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Observer\obj\Debug\Manulife.ChengDu.DesignPattern.Observer.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Observer\obj\Debug\Manulife.ChengDu.DesignPattern.Observer.pdb

@@ -1,0 +1,5 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPatterm.Decorator\bin\Debug\EDC.DesignPatterm.Decorator.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPatterm.Decorator\bin\Debug\EDC.DesignPatterm.Decorator.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPatterm.Decorator\bin\Debug\EDC.DesignPatterm.Decorator.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPatterm.Decorator\obj\Debug\EDC.DesignPatterm.Decorator.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPatterm.Decorator\obj\Debug\EDC.DesignPatterm.Decorator.pdb

@@ -1,2 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.FactoryMethod\obj\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.csprojResolveAssemblyReference.cache
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.FactoryMethod\bin\Debug\Manulife.ChengDu.DesignPattern.FactoryMethod.exe.config

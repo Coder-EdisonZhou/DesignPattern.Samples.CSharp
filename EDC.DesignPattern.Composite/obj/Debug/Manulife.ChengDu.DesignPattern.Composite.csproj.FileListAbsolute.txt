@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Composite\bin\Debug\EDC.DesignPattern.Composite.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Composite\bin\Debug\EDC.DesignPattern.Composite.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Composite\bin\Debug\EDC.DesignPattern.Composite.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Composite\obj\Debug\EDC.DesignPattern.Composite.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Composite\obj\Debug\EDC.DesignPattern.Composite.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Composite\obj\Debug\EDC.DesignPattern.Composite.csprojResolveAssemblyReference.cache

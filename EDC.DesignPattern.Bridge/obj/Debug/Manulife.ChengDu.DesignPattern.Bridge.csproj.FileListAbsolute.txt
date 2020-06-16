@@ -1,0 +1,5 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Bridge\bin\Debug\EDC.DesignPattern.Bridge.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Bridge\bin\Debug\EDC.DesignPattern.Bridge.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Bridge\bin\Debug\EDC.DesignPattern.Bridge.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Bridge\obj\Debug\EDC.DesignPattern.Bridge.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Bridge\obj\Debug\EDC.DesignPattern.Bridge.pdb

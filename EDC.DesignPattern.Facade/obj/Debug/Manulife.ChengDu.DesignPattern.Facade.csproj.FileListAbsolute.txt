@@ -1,0 +1,6 @@
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Facade\bin\Debug\EDC.DesignPattern.Facade.exe.config
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Facade\bin\Debug\EDC.DesignPattern.Facade.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Facade\bin\Debug\EDC.DesignPattern.Facade.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Facade\obj\Debug\EDC.DesignPattern.Facade.exe
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Facade\obj\Debug\EDC.DesignPattern.Facade.pdb
+E:\Projects\DotNet Workspace\EDC.DesignPattern\EDC.DesignPattern.Facade\obj\Debug\EDC.DesignPattern.Facade.csprojResolveAssemblyReference.cache

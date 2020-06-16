@@ -1,6 +1,0 @@
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Mediator\bin\Debug\Manulife.ChengDu.DesignPattern.Mediator.exe.config
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Mediator\bin\Debug\Manulife.ChengDu.DesignPattern.Mediator.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Mediator\bin\Debug\Manulife.ChengDu.DesignPattern.Mediator.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Mediator\obj\Debug\Manulife.ChengDu.DesignPattern.Mediator.exe
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Mediator\obj\Debug\Manulife.ChengDu.DesignPattern.Mediator.pdb
-E:\Projects\DotNet Workspace\Manulife.ChengDu.DesignPattern\Manulife.ChengDu.DesignPattern.Mediator\obj\Debug\Manulife.ChengDu.DesignPattern.Mediator.csprojResolveAssemblyReference.cache
